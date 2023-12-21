@@ -1,15 +1,5 @@
-# SOEN390_Team13
-Making a mobile/web app in the context of the mini-capstone project
-
-## SOEN343_Project
-Project Description
-Creating a community services platform.
-
-## Objective
-Here are the objectives of the project:
-
-## Features
-Features of the platform
+# Social Networking Site/App
+LinkedIn-like web/mobile application developed in the context of a school project.
 
 ## Tools and Techniques (To be discussed this saturday)
 Frontend: ReactJS (WebApp) & React Native (MobileApp) (https://reactjs.org/) <br/>
